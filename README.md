@@ -102,28 +102,6 @@ npm run start
 - `materials.json`: 初始为空数组，用于存储教学资源
 - `teachers.json`: 初始为空数组，用于存储教师信息
 
-## 开发指南
-
-### 添加新页面
-
-在`src/app`目录下创建新的页面组件。
-
-### 添加新组件
-
-在`src/components`目录下创建新的可复用组件。
-
-## 贡献指南
-
-1. Fork 项目
-2. 创建功能分支 (`git checkout -b feature/amazing-feature`)
-3. 提交更改 (`git commit -m 'Add some amazing feature'`)
-4. 推送到分支 (`git push origin feature/amazing-feature`)
-5. 创建Pull Request
-
-## 许可证
-
-在将项目上传到GitHub或其他平台时，请选择适合您的开源协议。
-
 ## BUG
 
 1. 在火狐黑色模式下主题看不见
